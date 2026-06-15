@@ -1,6 +1,6 @@
 # GF Model Tools
 
-[![GF Model Tools video preview](example.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=XzWu7w_7F9I))
+[![GF Model Tools video preview](example.jpg)]([https://www.youtube.com/watch?v=XzWu7w_7F9I])
 
 Blender add-on for importing Grim Fandango models, textures, skeletons, and KEY animations from LAB archives.
 
